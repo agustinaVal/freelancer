@@ -1,3 +1,208 @@
-/*
- * Estilos de tu proyecto
- */
+
+/* font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;*/
+
+body{  
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+	background-color: #2c3e50;
+	width: 100%;
+	height: 60px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+	padding: 10px;
+	position: fixed;
+}
+ h1{
+ 	font-size: 20px;
+ 	display: inline-block;
+ 	margin-left: 15px;
+  }
+
+nav	{
+	display: inline-block;
+	float: right;
+}
+
+a{
+	padding: 5px;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+ .parteuno{ 	
+	width: 100%;
+	height: 550px;
+	background-color:#18bc9c;
+	padding-top: 100px;
+	text-align: center;	
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;	
+}
+section h1{
+	font-size: 50px;
+}
+
+div .linea{
+	height: 5px;
+	width: 60px;
+	background-color: #fff;
+	display: inline-block;	
+}
+
+section h6{
+	font-family: 'Lato', sans-serif;
+	color: white;
+	font-size: 20px;
+}
+.fa {
+	width: 30px;
+}
+
+.partedos{
+	width: 100%;
+	height: 300px;
+	background-color: #fff;	
+	text-align: center;
+}
+ 
+section h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	color:#343232;
+}
+
+div .lineas{
+	height: 5px;
+	width: 60px;
+	background-color: #343232;
+	display: inline-block;	
+}
+section .partetres{
+	width:100%;
+	height:400px;
+	background-color: white;
+	align-content: center;
+	padding-top: 5px;
+	padding-left: 30px;
+}
+.caja-imagenes img{
+	width: 300px;
+	height: auto;
+	margin-top: 0px;
+	margin-right: 40px;
+	text-align: center;
+	display: inline-block;
+	padding: 5px;
+}
+
+.partecuatro{
+	width:100%;
+	height: auto;
+	background-color:#18bc9c;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	text-align: center;	
+}
+.contenedor p{
+	width: 300px;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5;
+
+}
+.partecinco{
+	width:100%;
+	height: 500px;
+	text-align: center;
+	color: #343232; 
+	font-family: 'Lato', sans-serif;
+}
+#titulo{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	color:#343232 ;
+}
+ #imput p{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color: #7C7878;
+	border-bottom: 2px solid #7C7878;
+	margin-left: 500px;
+	margin-right: 400px;
+	text-align: left;
+	align-content: center;
+
+}
+
+div.enviar:hover{
+	width: 50px;
+	height:auto;
+	background-color: #18bc9c;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	align-content: center;
+	display: inline-block;
+	padding: 2px;
+}
+
+footer{    
+    background-color: #343232;
+    color: white; 
+    margin:10px;   
+}
+
+footer h3{    
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 10%; 
+    font-family: 'Montserrat', sans-serif; 
+}
+
+footer p{    
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+    margin: 0;     
+}
+
+span{
+	color:#18bc9c;
+}
+.one{
+	display: inline-block;
+	padding: 30px;
+	margin-left: 400px;
+}
+
+.two{
+	display: inline-block;
+	padding: 30px;
+	padding-top: 10px;
+}
+
+.tree{
+	display: inline-block;
+	padding: 50px;
+}
+
+.four{
+	width: 200px;
+	margin-left: 550px;
+	font-size: 10px;
+}
+
